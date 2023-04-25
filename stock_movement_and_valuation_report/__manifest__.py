@@ -8,6 +8,8 @@
     'category': 'Stock',
     'author': 'JETZERP',
     'website': 'https://jetzerp.com/',
+    'price': 10.0,
+    'currency': 'USD',
     'depends': ['account', 'stock', 'web'],
     'data': [
         'wizards/inventory_movemet_view.xml',
