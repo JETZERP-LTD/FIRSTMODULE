@@ -7,6 +7,8 @@
     'description': """  This module helps to view product movement [IN/OUT] from selected warehouse by selecting date. """,
     'category': 'Stock',
     'author': 'JETZERP',
+    'price': 10.0,
+    'currency': 'USD',
     'website': 'https://jetzerp.com/',
     'depends': ['account', 'stock', 'web'],
     'data': [
